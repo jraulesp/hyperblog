@@ -1,8 +1,7 @@
 Este es un ejemplo de mi primer repositorio.
 
-José Raúl Espinosa López
+Jose Raul Espinosa Lopez
 
-29 años -  Mexicano 
+28 años - CDMX
 
-Vive en Salvador Díaz Mirón.
-
+Trabaja en Wave C
