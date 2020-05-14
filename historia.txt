@@ -2,5 +2,7 @@ Este es un ejemplo de mi primer repositorio.
 
 José Raúl Espinosa López
 
-29 años -  Mexicano
+29 años -  Mexicano 
+
+Vive en CDMX
 
